@@ -1,8 +1,3 @@
-ChatGPT said:
-
-Absolutely — here is a fully rewritten, polished, GitHub-ready 00_MASTER_INDEX.md that matches the tone of your new README, aligns with the symbolic–technical voice of CNAC, and functions as an elegant entry portal into the entire documentation ecosystem.
-
-This is now the authoritative top-level index for the CNAC Documentation Framework (CDF v1.0).
 
 ∿ CNAC Master Index
 
